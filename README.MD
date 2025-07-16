@@ -15,11 +15,17 @@
 <p align="center">
   <img 
     src="assets/Perfil.png"
-    width="400"  
+    width="200"  
+    style="border-radius: 50%;"
   />
 </p>
 
 # PodCast KatanaVerso: Vozes do Pilar gerado por I.A.s
+
+<video width="600" controls>
+  <source src="video/PodCast_Rosa_Virginia.mp4" type="video/mp4">
+  Seu navegador não suporta vídeo HTML5.
+</video>
 
 
  > ℹ️ **NOTE:** Você piscou… e os Pilares já estavam lutando contra a próxima ameaça! Se você também acha que Respiração é mais do que um exercício de yoga… então esse podcast é pra você!
@@ -34,7 +40,7 @@ Eu sou [Seu Nome], e ao lado dos meus companheiros de missão, te convido a entr
 Prepare sua katana… porque o episódio de hoje já vai começar!
 
 Te convido a continuar lendo e descobrir como escrever código de forma mais rápida, inteligente e criativa com Emmet no VS Code ⚡💻
-<a href="https://web.dio.me/articles/domine-o-emmet-no-css-escreva-codigos-10x-mais-rapido-no-vs-code-8b3d3b3f9659?back=/articles" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://github.com/Rosavf/PodCast-Rosa-Virginia-KatanaVerso" title="PodCasta> 📕Clique aqui para escutar o PodCast</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -61,11 +67,11 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 7 sugestões de nomes para meu podcast, combinando el mundo nerd / dev / tech con Demon Slayer, noticias, filmes.                                                                                                                                                                                  |
-| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast KatanaVerso: Vozes do Pilar O formato do roteiro deve ser:
-[INTRODUÇÃO]
-[CURIOSIDADE 1]
-[CURIOSIDADE 2]
-[FIM]
+| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast KatanaVerso: Vozes do Pilar O formato do roteiro deve ser: |
+[INTRODUÇÃO] |
+[CURIOSIDADE 1] |
+[CURIOSIDADE 2] |
+[FIM]|
 
 {REGRAS}
 - No bloco [INTRODUÇÃO], substitua-o por uma introdução semelhante às dos vídeos do canal "Hey Nerd", como se tivessem sido escritos pela Crunchyroll.
@@ -90,7 +96,7 @@ Ideogram
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei Notion.so Para criar a ordem e a estrutura do PodCast e canva para editar imagens.
+Utilizei os prompts acima nas ferramentas recomendadas para gerar o material base. Organizei a ordem e a estrutura do podcast utilizando o Notion.so e editei as imagens no Canva.
 
 ## 👨‍💻 Expert
 
