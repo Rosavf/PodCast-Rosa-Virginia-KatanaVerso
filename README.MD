@@ -40,7 +40,7 @@ Esse é o KatanaVerso: Vozes do Pilar – o podcast onde notícias são cortadas
 Prepare sua katana… porque o episódio de hoje já vai começar!
 
 Te convido a continuar escutando este PodCast ⚡💻
-<a href="https://github.com/Rosavf/PodCast-Rosa-Virginia-KatanaVerso" title="PodCasta> 📕Clique aqui para escutar o PodCast</a>
+<a href="https://github.com/Rosavf/PodCast-Rosa-Virginia-KatanaVerso" title="PodCast"> 📕Clique aqui para escutar o PodCast</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
