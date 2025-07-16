@@ -16,7 +16,7 @@
   <img 
     src="assets/Perfil.png"
     width="200"  
-    style="border-radius: 50%;"
+  
   />
 </p>
 
@@ -36,7 +36,7 @@ No episódio de hoje, vamos descobrir um detalhe curioso sobre os temidos Hashir
 No campo de batalha das séries, animes e novidades do universo geek…
 Três vozes surgem como pilares da resistência otaku.
 Esse é o KatanaVerso: Vozes do Pilar – o podcast onde notícias são cortadas com precisão, teorias são afiadas como uma lâmina, e a paixão por Demon Slayer arde como a Respiração do Sol!
-Eu sou [Seu Nome], e ao lado dos meus companheiros de missão, te convido a entrar nesse dojo de ideias, devs e devaneios.
+
 Prepare sua katana… porque o episódio de hoje já vai começar!
 
 Te convido a continuar lendo e descobrir como escrever código de forma mais rápida, inteligente e criativa com Emmet no VS Code ⚡💻
